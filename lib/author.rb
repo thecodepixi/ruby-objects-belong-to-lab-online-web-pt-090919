@@ -1,3 +1,2 @@
 class Author 
-  attr_accessor :name, :post, :author 
-end 
+  attr_accessor :name, :post
